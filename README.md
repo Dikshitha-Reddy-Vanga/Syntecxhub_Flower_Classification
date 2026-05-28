@@ -111,7 +111,7 @@ Used custom input values to predict flower species.
 ### Clone Repository
 
 ```bash
-git clone <your-repository-link>
+git clone <Dikshitha-Reddy-Vanga/Syntecxhub_Flower_Classification>
 ```
 
 ### Install Required Libraries
